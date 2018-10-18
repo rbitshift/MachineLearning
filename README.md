@@ -12,4 +12,10 @@ Data Science Programming Tools:
 - Data Science with Python: TBD
 
 Machine Learning Basics:
-- TBD
+- Andrew Ng Coursera Course
+
+Interesting Resources:
+- 3Blue1Brown: Essence of Linear Algebra
+- 3Blue1Brown: Essence of Calculas
+- Welch Labs: Neural Network
+
